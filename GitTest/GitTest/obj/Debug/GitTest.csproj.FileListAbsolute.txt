@@ -1,0 +1,7 @@
+C:\Pluralsight\Git\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Pluralsight\Git\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Pluralsight\Git\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Pluralsight\Git\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Pluralsight\Git\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Pluralsight\Git\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Pluralsight\Git\GitTest\GitTest\obj\Debug\GitTest.pdb
